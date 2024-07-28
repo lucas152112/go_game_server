@@ -45,7 +45,7 @@ func main() {
 		return
 	}
 
-	glog.Info("===>启动游戏服务器")
+	glog.Info("===>啓動遊戲伺服器!")
 	loadConfig()
 	initialize()
 
