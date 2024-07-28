@@ -1,0 +1,37 @@
+{
+  "version": "v1.2.3",
+  "agora": {
+    "appId": "29020905c759451da917b27b621bf1a5",
+    "appCert": "ad2ff429bac740e58c16fd1cabb6fac0"
+  },
+  "chinaSms": {
+    "template": "【英雄召唤】验证码@@,有效期十分钟，如非本人操作，请联系客服",
+    "userName": "herocall2",
+    "userKey": "RUbYZIt18knCoTP8e7aWHUB9bPMNxE6SXhrP",
+    "keySecret": "hx0XXVlu8bQzNcmkjJS4i88zO9Ku7j4Nzu3Sh5aCO5gMGHZuvJw2swxO2kC2KEz1",
+    "addr": "https://sms.server.matocloud.com/sms/is/api/sms/simple/sendSms"
+  },
+  "globalSms": {
+    "template": "【英雄召唤】验证码@@,有效期十分钟，如非本人操作，请联系客服",
+    "userName": "herocall22",
+    "userKey": "xDMowPv9jRwqtcKhdrVKblQ0O4H0MLujkxqt",
+    "keySecret": "ciPjrGMDGhIVqay2X8jGAATXCiM9gInDTocrhDEnWE2kgFrWKx4eA2ktK0sF50B5",
+    "addr": "https://sms.server.matocloud.com/sms/is/api/sms/simple/globe/sendSms"
+  },
+  "versionManage": {
+    "addr": "http://localhost:9000/release"
+  },
+  "guoduChina": {
+    "userName": "sdthy",
+    "password": "sa9GUK3c",
+    "addr": "http://qxtsms.guodulink.net:8000/QxtSms/QxtFirewall"
+  },
+  "chuangLan": {
+    "userName": "I9733060",
+    "password": "6lFx1eH40G0b90",
+    "addr": "http://intapi.253.com/send/json"
+  },
+  "liveGameTax": {
+    "pumpPercent": 2
+  }
+}

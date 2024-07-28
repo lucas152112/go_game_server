@@ -1,0 +1,6 @@
+﻿debug: false
+dbtype: mysql
+dbparam: game:qifan515@(172.17.251.105:3306)/dezhou?charset=utf8mb4&parseTime=True&loc=Local
+gameport: :9011
+coinrobot: false
+
